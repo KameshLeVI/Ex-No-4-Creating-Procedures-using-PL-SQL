@@ -41,7 +41,8 @@ SQL> select * from employeee;
 ```
 
 ### Output:
-![image](https://github.com/KameshLeVI/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/120780633/c0987a8d-18a6-410c-898d-acf04012f86e)
+![Screenshot 2023-10-05 092442](https://github.com/KameshLeVI/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/120780633/fff99cc5-afcc-48a0-9410-9e19b8be1c55)
+
 
 
 ### Result:
