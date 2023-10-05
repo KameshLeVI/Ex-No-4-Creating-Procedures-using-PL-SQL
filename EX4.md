@@ -41,7 +41,8 @@ SQL> select * from employeee;
 ```
 
 ### Output:
-![271680268-4b0b2803-f01d-4189-a0fd-99e39e59cf73](https://github.com/sivabalan28/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/113497347/857c9cbb-a32e-4146-994f-78626817913b)
+![image](https://github.com/KameshLeVI/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/120780633/c0987a8d-18a6-410c-898d-acf04012f86e)
+
 
 ### Result:
 Hence the procedure using pl/sql is created successfully.
